@@ -6,5 +6,5 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
-play(boardlearn spec/01_cli_spec.rb)
+play(board)
 # Make sure to execute #play below
